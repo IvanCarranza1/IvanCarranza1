@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Python**
 
-- 👨‍💻 All of my projects are available at [digo-page.web.app](https://digo-page.web.app/)
+- 👨‍💻 All of my projects are available at [digo-labs](https://digo-page.web.app/)
 
 - 💬 Ask me about **Java, Flutter**
 
