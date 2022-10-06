@@ -1,4 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ivan Carranza</h1>
+
+![animation_profile2](https://user-images.githubusercontent.com/89784957/194233088-407c6e09-52f7-419f-a201-2b04dadda702.gif)
+
+
 <h3 align="center">A passionate frontend developer from México</h3>
 
 - 🔭 I’m currently working on [Dolphin](https://dolphin-faa58.web.app/)
