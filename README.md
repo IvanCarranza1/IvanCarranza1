@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ivan Carranza</h1>
 <h3 align="center">A passionate frontend developer from México</h3>
 
+![30350-android-logo](https://user-images.githubusercontent.com/89784957/194230354-0e84e5e2-29c6-4ca9-827e-c9a384182158.gif)
+
+
 - 🔭 I’m currently working on [Dolphin](https://dolphin-faa58.web.app/)
 
 - 🌱 I’m currently learning **Python**
