@@ -2,8 +2,6 @@
 
 <h3 align="center">A passionate frontend developer from México</h3>
 
-- 🔭 I’m currently working on [Dolphin](https://dolphin-faa58.web.app/)
-
 - 🌱 I’m currently learning **Python**
 
 - 👨‍💻 All of my projects are available at [DIGO LAB](https://digo-page.web.app/)
